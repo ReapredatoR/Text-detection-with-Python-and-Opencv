@@ -9,13 +9,15 @@ _Before running the code, I installed the required Python libraries._
 - opencv
 - numpy
 
+*All tested images are in the images folder*
+
 1. Importing Packages:
 
    - Import necessary Python libraries for image processing, text detection, and visualisation.
 
 2. Read the Image Using OpenCV:
 
-   - Load an image file named "2.jpg" from the "images" directory using OpenCV.
+   - Load an image from the "images" directory using OpenCV.
 
 3. Text Detector Instance (EasyOCR):
 
